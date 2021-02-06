@@ -1,10 +1,4 @@
 {
-"Name": "Test",
-"Mobile": 12345678,
-"Boolean": true,
-"Pets": ["Dog", "cat"],
-"Address": {
-"Permanent address": "USA",
-"current Address": "AU"
-}
+"Name": "Adnan Khan"
+
 }
